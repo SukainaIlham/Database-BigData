@@ -1,0 +1,10 @@
+id_barang;nama_barang;harga;stok_barang
+BRG001;Laptop ASUS;800;10
+BRG002;Smartphone;500;15
+BRG003;Printer;300;20
+BRG004;Mouse;50;50
+BRG005;Keyboard;100;30
+BRG006;Headphone;150;25
+BRG007;Monitor;400;12
+BRG008;Speaker Bluetooth;200;20
+BRG009;External Hard Drive;250;18
